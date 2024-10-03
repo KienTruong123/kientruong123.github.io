@@ -15,7 +15,7 @@ const DoubleCircleArrowRight: FC<DoubleCircleArrowRightProps> = ({ className, si
       <div className="aspect-square bg-white rounded-full">
         <GoHorizontalRule className="fill-primary-600 translate-x-1/4" size={size} />
       </div>
-      <div className="flex-none aspect-square bg-primary-600 rounded-full overflow-hidden border-2 border-white -translate-x-1/3">
+      <div className="flex-none aspect-square bg-primary-700 rounded-full overflow-hidden border-2 border-white -translate-x-1/3">
         <LiaLongArrowAltRightSolid color="primary" className="fill-white -translate-x-1/4" size={size} />
       </div>
     </div>

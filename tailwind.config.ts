@@ -24,8 +24,8 @@ const config: Config = {
       },
       colors: {
         primary: colors.indigo,
-        secondary: colors.yellow,
-        neutral: colors.gray,
+        secondary: colors.lime,
+        neutral: colors.yellow,
       },
     },
   },

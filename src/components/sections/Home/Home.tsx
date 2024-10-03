@@ -173,11 +173,11 @@ export const Home: FC<{ parentRef?: any }> = () => {
             <h1>
               Build your dreams
               <br />
-              <span className="text-primary-600">now</span>
+              <span className="text-primary-700">now</span>
             </h1>
             <div className="flex items-center">
               <DoubleCircleArrowRight className="animate-wiggle" />
-              <h5>Hire we</h5>
+              <h5>Hire me</h5>
             </div>
           </div>
         </div>
